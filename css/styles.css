@@ -1,7 +1,14 @@
 body {
-    background-color: E5E5E5;
-    color: 212121;
+  background-color: E5E5E5;
+  color: 212121;
+  font-family: "Roboto";
+}
+h1 {
+  text-transform: uppercase;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+button:hover {
 }
