@@ -114,6 +114,14 @@ h3 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.lorem p {
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 1.71;
+  /* or 171% */
+  letter-spacing: 0.03em;
+  color: #757575;
+}
 .our-team h4 {
   font-family: "Roboto";
   font-weight: 500;
@@ -145,10 +153,11 @@ h3 {
 .projects p {
   font-family: "Roboto";
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.88;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
+  color: #757575;
 }
 .contact-footer {
   font-family: "Roboto";
